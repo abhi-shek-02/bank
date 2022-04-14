@@ -16,6 +16,7 @@ const ContainerB = () => {
     getAlldata();
   }, [value])
 
+  
   async function getAlldata() {
 
     // let url = "https://vast-shore-74260.herokuapp.com/banks?city=MUMBAI";
