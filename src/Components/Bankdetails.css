@@ -1,0 +1,115 @@
+/* *{
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Baloo+Bhai+2&family=Roboto:ital,wght@0,400;1,300&display=swap');
+*{
+    box-sizing: border-box;
+}
+.bank-details-cont{
+    height:70px;
+    width:100%;
+    font-size: Arial;
+     background:rgb(0, 208, 156);
+    box-shadow :0 2px 10px 5px rgb(0 0 0 / 8%);
+    border-radius:10px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+
+}
+.bank-details-cont{
+    width:12.5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+} */
+
+*{
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Baloo+Bhai+2&family=Roboto:ital,wght@0,400;1,300&display=swap');
+*{
+    box-sizing: border-box;
+}
+.Mainbank-details-cont2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 70px;
+   font-family: 'Baloo 2', cursive;
+
+}
+.bank-details-cont2{
+    height:70px;
+    width:100%;
+    font-size: Arial;
+     background:rgb(0, 208, 156);
+    box-shadow :0 2px 10px 5px rgb(0 0 0 / 8%);
+    border-radius:10px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+
+
+}
+
+.bank-details-cont2 span{
+    width:12.5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   /* border: 2px solid red; */
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+} 
+
+.data-table2{
+    height:auto;
+    width:100%;
+    font-size: Arial;
+    box-shadow :0 2px 10px 5px rgb(0 0 0 / 8%);
+    border-radius:10px;
+    margin:10px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 20px;
+   font-family: 'Baloo 2', cursive;
+   font-size: 12px;
+   /* border: 2px solid red; */
+
+}
+.data-table2 span{
+    width:20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   /* border: 2px solid red; */
+
+}
+.button-6{
+    height:40px;
+    width:150px;
+    border-radius:10px;
+    margin:10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background:#66e3c4;
+    background:rgb(0, 208, 156);
+    border: none;
+    color: white;
+
+}
